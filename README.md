@@ -1,7 +1,7 @@
 <h3>A passionate software developer.</h3>
 
 - 👋 Hi, I am Sandesh Jain.
-- 👀 I am interested in Software Development, Marketing and Content Writing.
+- 👀 I am interested in Software Development.
 - 🌱 Currently open for open-source contributions and freelancing opportunities.
 - 🤝 How to reach me : [Do Reach](mailto:dev.sandeshjain@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sandeshj07)
 
